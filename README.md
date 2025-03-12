@@ -5,20 +5,20 @@ Este projeto consiste na criação de uma interface semelhante ao Spotify, utili
 ## Tecnologias Utilizadas 🚀
 
 <p align="left">
-  <img src="https://github.com/Rodrigomelo220/spotify-clone/blob/main/.github/html.png" alt="HTML" height="75"/>
-  <img src="https://github.com/Rodrigomelo220/spotify-clone/blob/main/.github/css.png" alt="CSS" height="75"/>
-  <img src="https://github.com/Rodrigomelo220/spotify-clone/blob/main/.github/bootstrap.png" alt="Bootstrap" height="75"/>
+  <img src=".github/html.png" alt="HTML" height="75"/>
+  <img src=".github/css.png" alt="CSS" height="75"/>
+  <img src=".github/bootstrap.png" alt="Bootstrap" height="75"/>
 </p>
 
 ## Resultado Final 📸
 
 Abaixo um print do resultado final do projeto:
 
-![Spotify clone](https://github.com/Rodrigomelo220/spotify-clone/blob/main/.github/spotify.png)
+![Spotify clone](.github/spotify.png)
 
 ## Acesso ao Projeto 🌐
 
-O projeto também está disponível no GitHub Pages e pode ser acessado por aqui: [Spotify Clone](https://rodrigomelo220.github.io/spotify-clone/).
+O projeto também está disponível no GitHub Pages e pode ser acessado por aqui: [Spotify Clone](https://rodrigomelo220.github.io/Spotify_Interface/).
 
 ## Licença 📄
 
